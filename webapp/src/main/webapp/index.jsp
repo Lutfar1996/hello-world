@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Should leo messi win world cup to prove himself as a GOAT </h1>
+   <h1> MANCHESTER IS BLUE </h1>
 
   
 </form>
