@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Machester is Red </h1>
+   <h1> Liverpool is Red </h1>
 
   
 </form>
