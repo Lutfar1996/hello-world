@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning I am From Saturn Venus Mercury </h1>
+   <h1> Should leo messi win world cup prove himself as GOAT </h1>
 
   
 </form>
